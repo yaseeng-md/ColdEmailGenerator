@@ -1,0 +1,9 @@
+﻿Project ,Technologies,Link 
+SAR Image Colorization,"GANs, PyTorch, Deep Learning,  Sattelite Imageniary, OpenCV, Computer Vision, Generative Models, Research, Image processing",https://github.com/yaseeng-md/SAR_Image_Colorization_Using_Deep_Learning_Algorithms
+Real Time Fight Detection ,"OpenCV, Deep Learning, LSTMs, Tensorflow, Scikit Learn, Image processing, Video Processing",https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras
+Explicit Content Detection ,"Transformers, Attension Mechanims, Deep Learning, Scikit Learn, HuggingFace, Research, Image processing",https://github.com/yaseeng-md/Explicit-Content-Detection
+Optical Content Detection,"Computer Vision, PyTorch, Vision Models, OCR , Image processing",https://github.com/yaseeng-md/FineTuning_TrOCR_HandwrittenText_Detection
+Movie recommendation Systems ,"Scikit Learn, Recommendation Systems, Unsupervised Learning, Tensorflow, Numpy, Pandas",https://github.com/yaseeng-md/Movie_recommedation_Systems
+Audio DeepFake Detetcion,"Deep Leaninig, PyTorch, Audio, LFCC, MFCC, Librosa, Audio Processing",https://github.com/yaseeng-md/Audio-DeepFake-Detection
+Fraud Detection Systems,"Scikit Learn, Spacy, NLTK, HuggingFace, XGBoost, Machine Leanring, Anamoly Detection",https://github.com/yaseeng-md/Fraud-Detection-Vehicle-Insurance-Claims
+Question and Answering RAGs,"LLMs, Llama, Generative AI, RAGs, Retrival Augumented Generation, Large Language Models",https://github.com/yaseeng-md/Question-And-Answering-RAGs
