@@ -34,12 +34,11 @@ ColdEmailGenerator is an intelligent system that helps job seekers automatically
      - 📚 Experience
      - 🛠️ Tech Stack
 <pre lang="markdown"> 
-```json 
+json 
    { "role": "Distribution Manager", 
    "experience": "Proven experience in leading teams, operations, logistics, transportation, retail/wholesale", 
-   "skills": [ "TEAM MANAGEMENT", "ENGLISH Language skills", "Dutch language skills (in most instances)", 
-   "CHANGE AGILITY", "ANALYTICAL thinking", "NONHIERARCHICAL leadership" ], 
-   "description": "As a Distribution Manager, you will be working together with distribution manager colleagues on one of our Omnichannel Distribution Centers (DC) at our European Logistics Center (ELC) across Ham and Laakdal in Belgium. You will lead a team of Coaches (4 to 8 direct reports) who are our first line leaders of our athletes (employees) and drive our ELC purpose." } ```
+   "skills": [ "TEAM MANAGEMENT", "ENGLISH Language skills", "Dutch language skills (in most instances)", "CHANGE AGILITY", "ANALYTICAL thinking", "NONHIERARCHICAL leadership" ], 
+   "description": "As a Distribution Manager, you will be working together with distribution manager colleagues on one of our Omnichannel Distribution Centers (DC) at our European Logistics Center (ELC) across Ham and Laakdal in Belgium. You will lead a team of Coaches (4 to 8 direct reports) who are our first line leaders of our athletes (employees) and drive our ELC purpose." } 
 </pre>
 
 4. **Semantic Matching**
