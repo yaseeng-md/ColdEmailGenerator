@@ -13,6 +13,9 @@ ColdEmailGenerator is an intelligent system that helps job seekers automatically
 
 ---
 
+<img src="https://github.com/yaseeng-md/ColdEmailGenerator/blob/main/data/Workflow.png" alt="App Screenshot" width="600"/>
+
+
 ## 🧭 Workflow Overview
 
 1. **User Profile Ingestion**
