@@ -62,6 +62,10 @@ ColdEmailGenerator is an intelligent system that helps job seekers automatically
 
 ---
 
+## Result:
+
+<img src="https://github.com/yaseeng-md/ColdEmailGenerator/blob/main/data/Result.png" alt="App Screenshot" width="600"/>
+
 
 ---
 
